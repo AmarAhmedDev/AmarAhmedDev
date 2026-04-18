@@ -41,7 +41,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=700&size=22&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=350&height=35&lines=%F0%9F%8C%8D+Connect+With+Me" alt="Connect With Me"/>
 
 <p>
-  <a href="https://t.me/AmuKocha"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" height="40" alt="Telegram"/></a>
+  <a href="https://t.me/Amar_Devs"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" height="40" alt="Telegram"/></a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/amar-ahmed-bb769132b"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
   &nbsp;&nbsp;

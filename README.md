@@ -58,7 +58,7 @@
 </p>
 
 <div align="center">
-  <a href="https://t.me/Amar_Devs"><img align="center" src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" height="40" alt="Telegram"/> <b>Telegram</b></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/amar-ahmed-bb769132b"><img align="center" src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/> <b>LinkedIn</b></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://wa.me/251963142410"><img align="center" src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" height="40" alt="WhatsApp"/> <b>WhatsApp</b></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:amarselmansudeys@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail"/> <b>Gmail</b></a>
+  <a href="https://t.me/Amar_Devs" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="30" height="30" alt="Telegram"/> Telegram</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/amar-ahmed-bb769132b" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=linkedin" width="30" alt="LinkedIn"/> LinkedIn</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://wa.me/251963142410" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="30" height="30" alt="WhatsApp"/> WhatsApp</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:amarselmansudeys@gmail.com" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=gmail" width="30" alt="Gmail"/> Gmail</a>
 </div>
 
 </div>

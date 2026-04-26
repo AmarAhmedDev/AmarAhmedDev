@@ -16,6 +16,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=700&size=22&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=400&height=35&lines=%F0%9F%93%9A+Languages+%26+Frameworks" alt="Languages & Frameworks"/>
 
+<p align="center">
+  <i>I am deeply passionate about creating seamless, scalable, and visually appealing web applications. Here are the core technologies I work with:</i>
+</p>
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,ts,js,python,html,css,tailwind,bootstrap,nextjs,threejs,nodejs,php" />
 </p>
@@ -23,6 +27,10 @@
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=700&size=22&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=400&height=35&lines=%F0%9F%93%B1+Mobile+Development" alt="Mobile Development"/>
+
+<p align="center">
+  <i>I can implement complex ideas into beautiful, high-performance mobile applications tailored for cross-platform users.</i>
+</p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin" />
@@ -32,20 +40,25 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=700&size=22&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=350&height=35&lines=%F0%9F%A7%B0+Tools+%26+Platforms" alt="Tools & Platforms"/>
 
+<p align="center">
+  <i>To ensure the highest code quality and rapid delivery, I utilize industry-leading tools and platforms.</i>
+</p>
+
 <p>
   <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,figma,vercel,postman,mysql,mongodb" />
 </p>
 
 ---
 
-<!-- <br>
+<br>
 <img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=700&size=22&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=350&height=35&lines=%F0%9F%8C%8D+Connect+With+Me" alt="Connect With Me"/>
 
+<p align="center">
+  <i>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Reach out to me!</i>
+</p>
+
 <div align="center">
-  <a href="https://t.me/Amar_Devs"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" height="40" alt="Telegram"/></a>
-  <a href="https://www.linkedin.com/in/amar-ahmed-bb769132b"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/></a>
-  <a href="https://wa.me/251963142410"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" height="40" alt="WhatsApp"/></a>
-  <a href="mailto:amarselmansudeys@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail"/></a>
-</div> -->
+  <a href="https://t.me/Amar_Devs"><img align="center" src="https://cdn.simpleicons.org/telegram/26A5E4" width="40" height="40" alt="Telegram"/> <b>Telegram</b></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/amar-ahmed-bb769132b"><img align="center" src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/> <b>LinkedIn</b></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://wa.me/251963142410"><img align="center" src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" height="40" alt="WhatsApp"/> <b>WhatsApp</b></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:amarselmansudeys@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail"/> <b>Gmail</b></a>
+</div>
 
 </div>

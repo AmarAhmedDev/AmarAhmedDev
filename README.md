@@ -50,15 +50,7 @@
 
 ---
 
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=700&size=22&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=350&height=35&lines=%F0%9F%8C%8D+Connect+With+Me" alt="Connect With Me"/>
 
-<p align="center">
-  <i>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Reach out to me!</i>
-</p>
 
-<div align="center">
-  <a href="https://t.me/Amar_Devs" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/telegram/26A5E4" width="30" height="30" alt="Telegram"/> Telegram</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/amar-ahmed-bb769132b" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=linkedin" width="30" alt="LinkedIn"/> LinkedIn</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://wa.me/251963142410" style="text-decoration:none;"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="30" height="30" alt="WhatsApp"/> WhatsApp</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="mailto:amarselmansudeys@gmail.com" style="text-decoration:none;"><img src="https://skillicons.dev/icons?i=gmail" width="30" alt="Gmail"/> Gmail</a>
-</div>
 
 </div>

@@ -38,7 +38,7 @@
 
 ---
 
-<br>
+<!-- <br>
 <img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=700&size=22&pause=999999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=350&height=35&lines=%F0%9F%8C%8D+Connect+With+Me" alt="Connect With Me"/>
 
 <div align="center">
@@ -46,6 +46,6 @@
   <a href="https://www.linkedin.com/in/amar-ahmed-bb769132b"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/></a>
   <a href="https://wa.me/251963142410"><img src="https://cdn.simpleicons.org/whatsapp/25D366" width="40" height="40" alt="WhatsApp"/></a>
   <a href="mailto:amarselmansudeys@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Gmail"/></a>
-</div>
+</div> -->
 
 </div>

@@ -45,7 +45,7 @@
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,figma,vercel,postman,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=firebase,git,github,vscode,figma,vercel,postman,mysql,mongodb,linux" />
 </p>
 
 ---
